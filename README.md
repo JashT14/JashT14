@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website Making, Simple coding etc.
 - 🌱 I’m currently learning Python intermediate, Javascript
 - 💞️ I’m looking to collaborate on nothing as currently
-- 📫 How to reach me (i will edit this soon)
+- 📫 Via my youtube channel
 
 <!---
 JashT14/JashT14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
