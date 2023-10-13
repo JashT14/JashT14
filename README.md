@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasht14&label=Profile%20views&color=0e75b6&style=flat" alt="jasht14" /> </p>
 
-- 🔭 I’m currently working on **Java mini-project for college**
+- 🔭 I’m currently working on **a new project**
 
 - 💬 Ask me about **Web Development, Python, Java**
 
