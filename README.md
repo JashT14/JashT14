@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jash Thakkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JashT14&label=Profile%20views&color=0e75b6&style=flat" alt="JashT14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JashT14&theme=" alt="JashT14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JashT14&theme=onestar" alt="JashT14" /></a> </p>
 
 - 🔭 I’m currently working on **Full-Stack Web Development Project**
 - 👯 I’m looking to collaborate on **Nothing as of now**
@@ -12,12 +12,12 @@
 - 👨‍💻 All of my projects are available at **https://github.com/JashT14**
 
 <div> <a href="https://twitter.com/@the_jashthakkar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/@thejashthakkkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thejashthakkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/JashT14" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:jasht.developer+GitHub@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@the_jashthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@the_jashthakkar" height="30" width="40" /></a><a href="https://linkedin.com/in/thejashthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="thejashthakkar" height="30" width="40" /></a><a href="https://www.youtube.com/c/jashthakkaryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="jashthakkaryt" height="30" width="40" /></a></p>
+<a href="https://twitter.com/@the_jashthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@the_jashthakkar" height="30" width="40" /></a><a href="https://linkedin.com/in/thejashthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="thejashthakkar" height="30" width="40" /></a><a href="https://www.youtube.com/@jashthakkaryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Jash Thakkar" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -47,13 +47,16 @@
 <div align="center">
 <a href="https://github.com/JashT14">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JashT14&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JashT14&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JashT14&theme=2077" height="180em" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div><h3>My Holopin Badges:</h3></p>
+<h3 align="center">My Holopin Badges:</h3></p>
 
 
 [![An image of @jasht14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jasht14)](https://holopin.io/@jasht14)
-
+<br/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <!---
 JashT14/JashT14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
