@@ -182,6 +182,7 @@ const expertise = {
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JashT14&repo=PodVerse&theme=radical&hide_border=true&bg_color=0D1117&title_color=7209B7&icon_color=7209B7&text_color=FFFFFF)](https://github.com/JashT14)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JashT14&repo=Vidya_Setu&theme=radical&hide_border=true&bg_color=0D1117&title_color=7209B7&icon_color=7209B7&text_color=FFFFFF)](https://github.com/JashT14)
 
 *Open to collaboration on innovative projects in AI/ML, Cloud Computing, and Blockchain*
 
