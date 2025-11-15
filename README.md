@@ -45,9 +45,9 @@ interests:
 
 | 🔭 Working On | 🌱 Learning | 💡 Exploring |
 |:---:|:---:|:---:|
-| Open Source Projects | Machine Learning & AI | DevOps Best Practices |
+| Systems Architecture | Machine Learning & AI | DevOps Best Practices |
 | Full Stack Applications | Django Framework | MLOps Pipelines |
-| Cloud Architecture | Android Development | Web3 & Blockchain |
+| Backend Services | Android Development | Web3 & Blockchain |
 
 </div>
 
